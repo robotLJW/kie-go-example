@@ -1,0 +1,6 @@
+kieConfig:
+  endpoint: "http://127.0.0.1:30110"
+  project: "client_test"
+  watchTime: "60s"
+  labelKey: "testKey"
+  labelValue: "testValue"
